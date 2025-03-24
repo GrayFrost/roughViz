@@ -68,6 +68,12 @@ Want to use with `Vue`? [There's a wrapper!](https://github.com/jolo-dev/vue-rou
 npm install vue-roughviz
 ```
 
+Want to use with `Svelte`? [There's a wrapper!](https://github.com/GrayFrost/svelte-roughviz):
+
+```sh
+npm install svelte-roughviz
+```
+
 Want to use it with `Python`? [Go crazy](https://github.com/charlesdong1991/py-roughviz):
 
 ```sh
